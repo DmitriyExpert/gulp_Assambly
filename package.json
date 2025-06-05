@@ -14,7 +14,7 @@
     "dev": "gulp",
     "fixAndBuild": "npm run fixAll && npm run build",
     "fixAndDev": "npm run fixAll && npm run dev",
-    "lintfixAndPush": "npm run fixAll && git add . && git commit -m \"initial commit\" && git push -u origin main"
+    "lintfixAndPush": "npm run fixAll && git add . && git commit -m \"adding fonts function in gulpfile\" && git push -u origin main"
   },
   "author": "",
   "license": "ISC",
